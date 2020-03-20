@@ -1,0 +1,5 @@
+/generated-kt/*
+!/generated-kt/.openapi-generator-ignore
+!/generated-kt/build.gradle
+.gradle
+.idea
